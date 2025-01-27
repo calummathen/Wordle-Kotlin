@@ -28,7 +28,7 @@ To run this app locally:
 
 1. Clone this repository to your machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/calummathen/Wordle-Kotlin
    ```
 2. Open the project in **Android Studio**.
 3. Run the `Wordle.kt` file on an emulator or physical device to start the game.
